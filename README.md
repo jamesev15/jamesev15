@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm James Espichan
 
-- ✨ I'm a Software Engineer based in Perú
-- 🔭 I’m currently working as Python Developer at Globant
+- ✨ I'm aM AI Engineer based in Perú
+- 🔭 I’m currently working as Machine Learning at Latam Airlines
 - 🌱 I’m currently learning Rust and Golang
 - ⚡ I’m looking to collaborate on exciting projects
 
